@@ -1,0 +1,5 @@
+- 👋 Hi, I’m wauffle
+- 👀 I’m interested in lua programming/scripting
+- 🌱 I’m currently learning more lua
+- 💞️ I’m looking to collaborate on roblox exploitation projects
+- 📫 How to reach me wauffle#9999
